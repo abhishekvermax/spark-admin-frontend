@@ -2,7 +2,7 @@
 
 A frontend solution for enterprise big data applications on cloud and on-premise.
 
-![preview](https://github.com/abhishekvermax/gdi-frontend/blob/main/sample-preview.png)
+![preview](https://github.com/abhishekvermax/spark-admin-frontend/blob/master/preview.png)
 
 ## Templates
 
